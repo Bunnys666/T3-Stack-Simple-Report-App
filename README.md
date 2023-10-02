@@ -2,6 +2,18 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
+## Mantine
+
+This project use mantine themes, or you can check the documentation for more information in [here](https://mantine.dev/)
+
+## Achievement
+
+- RBAC
+- admin can change status of reporting (Progress -> Review -> Complete)
+- admin can delete report but user not have access to delete the report
+- Realtime application
+- can loged in with Google, Discord, and Github.
+
 ## What's next? How do I make an app with this?
 
 We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
